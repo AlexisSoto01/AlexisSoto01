@@ -1,7 +1,7 @@
 <!-- RGB GIF -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Alexis+Soto" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=3000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Alexis+Soto" alt="Typing SVG" /></a>
 
 ## Desarrollo de Software 💻
 Soy estudiante de Tecnología en Desarrollo de Software, con una gran pasión por la programación y la creación de soluciones tecnológicas. Estoy entusiasmado por los desafíos que trae esta carrera y por seguir aprendiendo y creciendo en el fascinante mundo del desarrollo de software.
